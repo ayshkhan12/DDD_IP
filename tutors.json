@@ -1,0 +1,8 @@
+
+[
+  {
+    "Id": "ST001",
+    "Name": "Prof. Henry White",
+    "SupervisorIds": [ "PS001", "PS002" ]
+  }
+]

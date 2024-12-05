@@ -1,0 +1,9 @@
+
+[
+  {
+    "MeetingId": "M001",
+    "StudentId": "1",
+    "SupervisorId": "PS001",
+    "ScheduledTime": "2023-11-15T10:00:00"
+  }
+]

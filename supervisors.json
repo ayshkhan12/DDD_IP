@@ -1,0 +1,13 @@
+
+[
+  {
+    "Id": "PS001",
+    "Name": "Dr. John Doe",
+    "StudentIds": [ "S001", "S002" ]
+  },
+  {
+    "Id": "PS002",
+    "Name": "Dr. Jane Roe",
+    "StudentIds": []
+  }
+]
