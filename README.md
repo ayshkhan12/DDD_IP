@@ -1,0 +1,12 @@
+1. Introduction to the Project
+The project, Engagement Monitoring System, is a console application designed to manage and monitor the engagement and well-being of students within an academic institution. It serves as a tool for students, personal supervisors, and senior tutors to track progress, book meetings, and review status updates. The system allows students to update their progress and well-being, book meetings with their supervisors, and view their meeting history. Personal supervisors can check their students' statuses, arrange meetings, and review their meeting schedules. Senior tutors have a broader overview, allowing them to monitor supervisors and meetings across the institution.
+This system is implemented using C# with JSON as the data format for persistence, enabling easy storage and retrieval of data. The application is built to be flexible and scalable, providing a foundation that could be extended with additional features such as notifications, real-time data updates, or more detailed reports.
+
+2. Overall Description (of the Problem Area and the Problem)
+In many academic institutions, student engagement and well-being monitoring are essential for maintaining a supportive and productive learning environment. Students often face various challenges that affect their progress, such as personal issues, academic difficulties, or emotional well-being concerns. Without a structured system, it becomes difficult for staff members, including supervisors and tutors, to track these issues and intervene appropriately when needed.
+The problem arises from the lack of a centralized platform where students can report their progress and well-being status, book meetings with their assigned supervisors, and have a comprehensive record of their meeting history. For supervisors and senior tutors, it becomes challenging to effectively track the students under their care, understand their progress, and identify those who may need additional support or intervention.
+This system addresses the problem by providing a centralized, easy-to-use application that allows:
+•	Students to report their progress and well-being, as well as book meetings with their supervisors.
+•	Supervisors to track students' status updates and schedule meetings.
+•	Tutors to manage and overview multiple supervisors and the meetings associated with them.
+By centralizing student engagement data, the system ensures that all relevant parties have timely access to the information they need, thus enabling proactive support and effective management.
